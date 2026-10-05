@@ -49,7 +49,7 @@ CyberChef was used to decode and inspect the encoded content. Decoding suspiciou
 
 ### CyberChef Analysis
 
-![CyberChef Analysis](./cyberchefaccess.log)
+![CyberChef Analysis](./cyberchefaccess.log.png)
 
 ---
 
